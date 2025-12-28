@@ -1,0 +1,8 @@
+# Bun configuration for commando-standard
+
+[install]
+# Peer dependencies are optional for development
+optional = true
+
+[install.scopes]
+# Future: configure scoped registries if needed
